@@ -16,6 +16,15 @@ TEAM_REGISTRY = {
             "git_feature_branch": "feature/activity-10-mathieu-piekarz",
             "preferred_ai_assistant": "GitHub Copilot in VS Code",
             "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        },
+        {
+            "name": "DE TALHOUET Théophile",
+            "student_id": "00645543",
+            "role": "Business Intelligence Analyst",
+            "assigned_reviewer": "PIEKARZ Mathieu Xavier",
+            "git_feature_branch": "feature/activity-10-theophile-de-talhouet",
+            "preferred_ai_assistant": "Claude Opus",
+            "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         }
     # Teammates will append their dictionary blocks via their respective branches!
     ]
